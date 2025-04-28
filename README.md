@@ -6,7 +6,7 @@ I am a dedicated **Web developer** with expertise in **React.js** and **Laravel*
 
 ### 🚀 Skills & Technologies
 
-- **Web Development:** React.js, HTML, CSS, JavaScript, PHP, Laravel
+- **Web Development:** React.js, Node.js, HTML, CSS, JavaScript, PHP, Laravel
 - **Programming Languages for Problem Solving:** C, C++, Java, Python
 - **Database Management:** MySQL
 - **Payment Integration:** SSLCommerz, UddoktaPay
