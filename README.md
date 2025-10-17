@@ -1,90 +1,92 @@
-## 💫 About Me
+## 🌟 Nazmus Sakib | CTO & Web Development Secretary 🌟
 
-Hello! I’m **@NazmusSakib2036**.
+### 💼 Leadership & Professional Roles
+| Position | Organization | Term |
+| :--- | :--- | :--- |
+| **Chief Technology Officer (CTO)** | fabtech.it | Present |
+| **Secretary of Web Development** | NUB Computer Club - NUBCC | 2025-2026 |
 
-I am a dedicated **Web developer** with expertise in **React.js** and **Laravel**. My experience spans **database management** with **MySQL** and **website development** using **React.js**, **HTML**, **Tailwind CSS**, **CSS**, **JavaScript**, and **Laravel**. I am currently focused on **advanced Web development** and am keen to engage in **problem-solving projects**.
+<br>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=NazmusSakib2036&style=for-the-badge&color=blue" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/NazmusSakib2036?style=for-the-badge&label=Follow&logo=GitHub&color=236ad3" alt="GitHub followers"/>
+</div>
+
+---
+
+## 💻 Full-Stack Expertise: React.js & Laravel
+
+I am a dedicated **Web developer** with deep expertise in the **React.js** frontend ecosystem and the powerful **Laravel** PHP framework on the backend. My core focus is on **advanced Web development** and engaging in complex **problem-solving projects**.
 
 ### 🚀 Skills & Technologies
 
-- **Web Development:** React.js, Node.js, HTML, CSS, JavaScript, PHP, Laravel
-- **Programming Languages for Problem Solving:** C, C++, Java, Python
-- **Database Management:** MySQL
-- **Payment Integration:** SSLCommerz, UddoktaPay
-- **Cyber Security & Ethical Hacking**
-- **API Development & Integration**
-
-### 🌱 Learning Goals
-
-I am committed to enhancing my skills in **advanced Web development** and exploring emerging technologies to stay ahead in the field.
-
-### 🤝 Collaboration
-
-I am open to collaborating on projects that involve **problem-solving**, **innovation**, and **technology development**.
-
-### 📫 Contact
-
-Feel free to reach out to me via [WhatsApp](https://wa.me/01313186576) or connect with me on [LinkedIn](https://www.linkedin.com/in/nazmus-sakib-303345241/) for professional networking.
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100058835270925) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nazmus12_arish12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmus-sakib-303345241/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nazmussakib1432)
-
-### **Frontend Web Development Technologies:**
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend Technologies:**
-![Laravel](https://img.shields.io/badge/laravel-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### **Databases:**
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-### **Version Control & Deployment:**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121013.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-### **Cloud & Hosting:**
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-### **Optional Tools and Extras:**
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NazmusSakib2036&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NazmusSakib2036&theme=dark&hide_border=false)<br/>
-
-## Top Languages Used:
-
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-### Web Development Tools
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NazmusSakib2036&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+| Category | Key Technologies |
+| :--- | :--- |
+| **Web Development** | React.js, Node.js, HTML, CSS, JavaScript, PHP, Laravel, Tailwind CSS |
+| **Programming** | C, C++, Java, Python |
+| **Database** | MySQL, MongoDB, SQLite, Amazon DynamoDB, Oracle |
+| **Integrations** | API Development & Integration, SSLCommerz, UddoktaPay |
+| **Security** | Cyber Security & Ethical Hacking |
 
 ---
+
+### **Frontend Technologies (Dynamic View)**
+<p align="center">
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+### **Backend & Database Core**
+<p align="center">
+    <img src="https://img.shields.io/badge/laravel-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+### **Version Control & Deployment**
+<p align="center">
+    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/github-%23121013.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+</p>
+
+---
+
+## 📊 My GitHub Dynamics
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NazmusSakib2036&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Nazmus's GitHub Stats"/>
+</p>
+<br>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmusSakib2036&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+<br>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=NazmusSakib2036&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🤝 Collaboration & Contact
+
+I am actively looking to collaborate on projects involving **problem-solving**, **innovation**, and new **technology development**.
+
+### 📫 Get in Touch!
+* **WhatsApp:** [01313186576](https://wa.me/01313186576)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nazmus-sakib-303345241/)
+
+## 🌐 Social Media Presence
+<p align="center">
+    <a href="https://www.facebook.com/profile.php?id=100058835270925"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://www.instagram.com/nazmus12_arish12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/nazmus-sakib-303345241/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://x.com/Nazmussakib1432"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (Twitter)"></a>
+</p>
