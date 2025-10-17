@@ -1,131 +1,92 @@
-🌟 Nazmus Sakib | CTO & Web Development Secretary 🌟
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nazmus Sakib | README 3D Style</title>
+<style>
+  body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #fff;
+    margin: 0;
+    padding: 2rem;
+  }
+  h1, h2, h3, h4 {
+    text-shadow: 0 0 15px rgba(255,255,255,0.3);
+    transition: transform 0.3s ease, text-shadow 0.3s ease;
+  }
+  h1:hover, h2:hover, h3:hover, h4:hover {
+    transform: scale(1.05);
+    text-shadow: 0 0 25px #00f5ff, 0 0 40px #00f5ff;
+  }
+  section {
+    background: rgba(255,255,255,0.05);
+    border-radius: 15px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
+  section:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 10px 25px rgba(0,255,255,0.3);
+  }
+  a {
+    color: #00f5ff;
+    text-decoration: none;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+  }
+  a:hover {
+    color: #fff;
+    text-shadow: 0 0 10px #00f5ff;
+  }
+  .badge-container img {
+    margin: 5px;
+    transition: transform 0.3s ease, filter 0.3s ease;
+    border-radius: 10px;
+  }
+  .badge-container img:hover {
+    transform: scale(1.15) rotate(3deg);
+    filter: drop-shadow(0 0 10px #00f5ff);
+  }
+  footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #aaa;
+  }
+</style>
+</head>
+<body>
 
-💼 Leadership & Professional Roles
+<h1>💫 About Me</h1>
+<section>
+  <p>Hey there! 👋 I’m <strong>@NazmusSakib2036</strong> — a passionate <strong>Web Developer</strong> crafting immersive experiences with <strong>React.js</strong> and <strong>Laravel</strong>.<br>
+  💼 <strong>Chief Technology Officer</strong> at <a href="https://fabtechit.com">FabTech.IT</a><br>
+  🖥️ <strong>Secretary of Web Development (2025–2026)</strong> at <strong>NUB Computer Club – NUBCC</strong></p>
+</section>
 
-Position
+<h2>🚀 Skills & Technologies</h2>
+<section>
+  <ul>
+    <li><strong>Frontend:</strong> React.js, Tailwind CSS, JavaScript, HTML, CSS</li>
+    <li><strong>Backend:</strong> Laravel, Node.js, PHP</li>
+    <li><strong>Database:</strong> MySQL, MongoDB</li>
+    <li><strong>Others:</strong> SSLCommerz, UddoktaPay, Cybersecurity</li>
+  </ul>
+</section>
 
-Organization
+<h2>🌐 Socials</h2>
+<section class="badge-container">
+  <a href="https://facebook.com/profile.php?id=100058835270925"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nazmus-sakib-303345241/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Nazmussakib1432"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+  <a href="https://www.instagram.com/nazmus12_arish12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+</section>
 
-Term
+<footer>
+  <p>✨ Designed with ❤️ by Nazmus Sakib</p>
+</footer>
 
-Chief Technology Officer (CTO)
-
-fabtech.it
-
-Present
-
-Secretary of Web Development
-
-NUB Computer Club - NUBCC
-
-2025-2026
-
-<div align="center">
-<!-- Profile views and followers using 'for-the-badge' style for a lifted look -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DNazmusSakib2036%26style%3Dfor-the-badge%26color%3Dblue" alt="Profile views"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/NazmusSakib2036%3Fstyle%3Dfor-the-badge%26label%3DFollow%26logo%3DGitHub%26color%3D236ad3" alt="GitHub followers"/>
-</div>
-
-💻 Full-Stack Expertise: React.js & Laravel
-
-I am a dedicated Web developer with deep expertise in the React.js frontend ecosystem and the powerful Laravel PHP framework on the backend. My core focus is on advanced Web development and engaging in complex problem-solving projects.
-
-🚀 Skills & Technologies
-
-Category
-
-Key Technologies
-
-Web Development
-
-React.js, Node.js, HTML, CSS, JavaScript, PHP, Laravel, Tailwind CSS
-
-Programming
-
-C, C++, Java, Python
-
-Database
-
-MySQL, MongoDB, SQLite, Amazon DynamoDB, Oracle
-
-Integrations
-
-API Development & Integration, SSLCommerz, UddoktaPay
-
-Security
-
-Cyber Security & Ethical Hacking
-
-Frontend Technologies (Simulated Dynamic Look)
-
-<p align="center">
-<!-- Using the 'for-the-badge' style for consistent shadowing/lifted appearance -->
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-Backend & Database Core
-
-<p align="center">
-<img src="https://img.shields.io/badge/laravel-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-
-Version Control & Deployment
-
-<p align="center">
-<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/github-%23121013.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-</p>
-
-📊 My GitHub Dynamics (High Contrast & Radical Themes)
-
-<p align="center">
-<!-- Using 'radical' theme for high contrast and a dynamic look -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNazmusSakib2036%26theme%3Dradical%26hide_border%3Dfalse%26include_all_commits%3Dfalse%26count_private%3Dfalse" alt="Nazmus's GitHub Stats"/>
-</p>
-
-
-
-
-
-<p align="center">
-<!-- Using 'radical' theme -->
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNazmusSakib2036%26theme%3Dradical%26hide_border%3Dfalse" alt="GitHub Streak"/>
-</p>
-
-
-
-
-
-<p align="center">
-<!-- Trophies with 'radical' theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=NazmusSakib2036&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-🤝 Collaboration & Contact
-
-I am actively looking to collaborate on projects involving problem-solving, innovation, and new technology development.
-
-📫 Get in Touch!
-
-WhatsApp: 01313186576
-
-LinkedIn: Connect with me
-
-🌐 Social Media Presence
-
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100058835270925"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/nazmus12_arish12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/nazmus-sakib-303345241/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/Nazmussakib1432"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (Twitter)"></a>
-</p>
+</body>
+</html>
