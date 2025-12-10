@@ -26,10 +26,6 @@ I am a dedicated **Web developer** with deep expertise in the **React.js** front
 
 ---
 
-<!-- Badge Configuration -->
-[shields-base]: https://img.shields.io/badge/
-[badge-style]: ?style=for-the-badge&logoColor=white
-
 ### **Frontend Technologies (Dynamic View)**
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -53,10 +49,6 @@ I am a dedicated **Web developer** with deep expertise in the **React.js** front
 ---
 
 ## 📊 My GitHub Dynamics
-
-<!-- GitHub Stats Configuration -->
-[gh-username]: NazmusSakib2036
-[gh-theme]: radical
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazmusSakib2036&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
