@@ -57,15 +57,7 @@ I am a dedicated **Web developer** with deep expertise in the **React.js** front
 ## 📊 My GitHub Dynamics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NazmusSakib2036&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Nazmus's GitHub Stats"/>
-</p>
-<br>
-<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmusSakib2036&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-<br>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=NazmusSakib2036&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
