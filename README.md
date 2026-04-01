@@ -1,4 +1,4 @@
-## Nazmus Sakib | Chief Technology Officer & Secretary of Web Development
+## Md Nazmus Sakib | Chief Technology Officer & Secretary of Web Development
 
 ### 💼 Leadership & Professional Roles
 | Position | Organization | Term |
