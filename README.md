@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://nazmussakib.me/Back/public/uploads/hero/1776525309_profile_IMG_20260418_210737.jpg.jpeg" alt="Nazmus Sakib" width="100%" style="border-radius: 12px;" />
+<img src="https://nazmussakib.me/Back/public/uploads/hero/1776525309_profile_IMG_20260418_210737.jpg.jpeg" alt="Nazmus Sakib" width="180" style="border-radius: 50%; border: 3px solid #00C7B7;" />
 
 <br/><br/>
 
