@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://nazmussakib.me/Back/public/uploads/hero/1776525309_profile_IMG_20260418_210737.jpg.jpeg]" alt="Nazmus Sakib" width="100%" style="border-radius: 12px;" />
+<img src="https://nazmussakib.me/Back/public/uploads/hero/1776525309_profile_IMG_20260418_210737.jpg.jpeg" alt="Nazmus Sakib" width="100%" style="border-radius: 12px;" />
 
 <br/><br/>
 
@@ -15,11 +15,11 @@
 </pre>
 
 <p>
-  <a href="mailto:support@fabtechit.com">
+  <a href="mailto:nazmuss024@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://fabtechit.com">
+  <a href="https://nazmussakib.me">
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
@@ -158,7 +158,7 @@ const sakib = {
 
 <br/>
 
-<a href="mailto:nazmuss024@gmial.com">
+<a href="mailto:nazmuss024@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
