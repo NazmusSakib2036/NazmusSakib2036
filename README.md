@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/cSHVTthd/1773375292375.jpg" alt="Nazmus Sakib" width="100%" style="border-radius: 12px;" />
+<img src="[https://i.ibb.co/cSHVTthd/1773375292375.jpg](https://nazmussakib.me/Back/public/uploads/header/1776525334_IMG_20260418_210737.jpg.jpeg)" alt="Nazmus Sakib" width="100%" style="border-radius: 12px;" />
 
 <br/><br/>
 
