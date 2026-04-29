@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2500&pause=800&center=true&vCenter=true&width=700&height=80&lines=Hey+There+👋;I'm+Nazmus+Sakib;CTO+%7C+Full+Stack+Engineer;Building+Future+with+Code">
 </h1>
 
+### 💼 Leadership & Professional Roles
+| Position | Organization | Term |
+| :--- | :--- | :--- |
+| **Chief Technology Officer (CTO)** | FabTech.IT | Present |
+| **Secretary of Web Development** | NUB Computer Club - NUBCC | 2025-2026 |
+
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ns-sheam&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
 </p>
@@ -23,6 +30,19 @@
 ---
 
 ## ⚡ Tech Arsenal
+
+### 🚀 Skills & Technologies
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Web Development** | React.js, Node.js, HTML, CSS, JavaScript, PHP, Laravel, Tailwind CSS |
+| **Programming** | C, C++, Java, Python |
+| **Database** | MySQL, MongoDB, SQLite, Amazon DynamoDB, Oracle |
+| **Integrations** | API Development & Integration, SSLCommerz, UddoktaPay |
+| **Security** | Cyber Security & Ethical Hacking |
+
+---
+
 
 ### 🚀 Frontend
 
@@ -70,24 +90,19 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Collaboration & Contact
 
+I am actively looking to collaborate on projects involving **problem-solving**, **innovation**, and new **technology development**.
+
+### 📫 Get in Touch!
+* **WhatsApp:** [01313186576](https://wa.me/01313186576)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nazmus-sakib-303345241/)
+
+## 🌐 Social Media Presence
 <p align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://nazmussakib.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nazmus-sakib-sheam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nazmuss024@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ns-sheam)
-
+    <a href="https://www.facebook.com/profile.php?id=100058835270925"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://www.instagram.com/nazmus12_arish12/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/nazmus-sakib-303345241/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://x.com/Nazmussakib1432"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (Twitter)"></a>
 </p>
 
----
-
-## 🧬 Philosophy
-
-> "Code is not just logic — it's a weapon of creation."
-> "Build fast. Scale smart. Stay dangerous."
-
----
-
-<h1 align="center">⚡ Let's Build Something Legendary ⚡</h1>
