@@ -1,6 +1,6 @@
 <!-- Premium Cyberpunk README for Nazmus Sakib -->
 
-[![MasterHead](https://raw.githubusercontent.com/NS-Sheam/NS-Sheam/main/assets/images/banners/dark-banner.gif)](https://nazmussakib.me/)
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2500&pause=800&center=true&vCenter=true&width=700&height=80&lines=Hey+There+👋;I'm+Nazmus+Sakib;CTO+%7C+Full+Stack+Engineer;Building+Future+with+Code">
