@@ -9,7 +9,7 @@
 ### 💼 Leadership & Professional Roles
 | Position | Organization | Term |
 | :--- | :--- | :--- |
-| **Chief Technology Officer (CTO)** | FabTech.IT | Present |
+| **Chief Technology Officer (CTO)** | FabTech.IT | 2024-2026 |
 | **Secretary of Web Development** | NUB Computer Club - NUBCC | 2025-2026 |
 
 <br>
